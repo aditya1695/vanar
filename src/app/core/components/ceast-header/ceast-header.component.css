@@ -1,0 +1,16 @@
+.navbar {
+  background-color: purple;
+  color: yellowgreen;
+  padding: 10px;
+}
+
+
+.nav-item a {
+  color: #fff;
+  margin: 0 15px;
+}
+
+.nav-item a:hover,
+.nav-item a.active {
+  color: #ffcc00;
+}
